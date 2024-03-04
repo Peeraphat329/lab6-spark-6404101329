@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "TreePro",
+  "identifier": "texture:3399-959399ce-ddbb-4851-8b41-e2c9f4426e2e",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "8a3992534c4638428b120e1254253028",
+  "assetLocator": "textures/TreePro.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 375,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 666,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "8a3992534c4638428b120e1254253028",
+      "colorCount": 5293,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.5520347729459774,
+      "pixelsHigh": 375,
+      "pixelsWide": 666
+    }
+  ]
+}
